@@ -3,3 +3,6 @@ def greet(name):
 
 greet("World")
 
+
+def add(a, b):
+    return a + b
